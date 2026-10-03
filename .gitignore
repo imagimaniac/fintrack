@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.venv/
+venv/
+
+# Personal finance data (never publish)
+data/
+imports/
+*.csv
+
+# OS
+.DS_Store
